@@ -6846,6 +6846,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-cors-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="rack-cors (v1.0.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-cors-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-cors-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-oauth2-server (v2.4.2@62d824, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/rack-oauth2-server-62d82465be8d/bin" />
@@ -9854,6 +9862,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.2.2/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.2.2/script" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.2.2/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="yajl-ruby (v1.3.1, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/yajl-ruby/1.3.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/yajl-ruby/1.3.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/yajl-ruby-1.3.1/benchmark" />
       </SOURCES>
     </library>
     <library name="yard (v0.8.7.6, rbenv: 2.2.4) [gem]">
