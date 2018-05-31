@@ -1448,12 +1448,10 @@
     </library>
     <library name="cassandra-driver (v3.1.0, rbenv: 2.2.6) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/cassandra-driver/3.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/cassandra-driver/3.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.1.0/lib" />
       </SOURCES>
@@ -3760,14 +3758,12 @@
     </library>
     <library name="ffi (v1.9.18, rbenv: 2.2.6) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/lib" />
@@ -9198,7 +9194,6 @@
     </library>
     <library name="passenger (v5.1.2, rbenv: 2.2.6) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/passenger/5.1.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/passenger-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/passenger-5.1.2/dev" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/passenger-5.1.2/man" />
@@ -9208,7 +9203,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/passenger-5.1.2/download_cache" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/passenger/5.1.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/passenger-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/passenger-5.1.2/dev" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/passenger-5.1.2/man" />
@@ -10760,13 +10754,11 @@
     </library>
     <library name="rb-fsevent (v0.9.8, rbenv: 2.2.6) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.9.8/lib" />
@@ -14750,7 +14742,6 @@
     </library>
     <library name="zookeeper (v1.4.11, rbenv: 2.2.6) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/zookeeper/1.4.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zookeeper-1.4.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zookeeper-1.4.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zookeeper-1.4.11/java" />
@@ -14759,7 +14750,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zookeeper-1.4.11/zoomonkey" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/zookeeper/1.4.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zookeeper-1.4.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zookeeper-1.4.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zookeeper-1.4.11/java" />
