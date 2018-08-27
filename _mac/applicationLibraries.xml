@@ -444,6 +444,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/bundler/gems/types-4ddfa92307f9/lib" />
       </SOURCES>
     </library>
+    <library name="apptentive-types (v1.0.0@f8c9ce, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/types-f8c9ce190919/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/types-f8c9ce190919/lib" />
+      </SOURCES>
+    </library>
     <library name="arbre (v1.0.3, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/arbre-1.0.3/lib" />
@@ -2286,6 +2294,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/crack-0.4.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/crack-0.4.3/script" />
+      </SOURCES>
+    </library>
+    <library name="crass (v1.0.4, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/crass-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/crass-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="css_parser (v1.4.5, rbenv: 2.2.4) [gem]">
@@ -5476,6 +5492,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/html-proofer-3.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="html2haml (v2.2.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/html2haml-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/html2haml-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/html2haml-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/html2haml-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="htmlentities (v4.3.4, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/htmlentities-4.3.4/lib" />
@@ -7252,6 +7278,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/logstash-event-1.2.02/lib" />
       </SOURCES>
     </library>
+    <library name="logstash-event (v1.3@3c2214, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/logstash-event-3c2214628a27/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/logstash-event-3c2214628a27/lib" />
+      </SOURCES>
+    </library>
     <library name="logstash-logger (v0.15.2, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/logstash-logger-0.15.2/lib" />
@@ -7842,6 +7876,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/mongoid-3.1.7/lib" />
       </SOURCES>
     </library>
+    <library name="mongoid (v4.0.2@e39be6, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-e39be6063f7a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-e39be6063f7a/perf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-e39be6063f7a/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-e39be6063f7a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-e39be6063f7a/perf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-e39be6063f7a/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="mongoid-compatibility (v0.4.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-compatibility-0.4.0/lib" />
@@ -7918,6 +7964,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/mongoid-rspec-1.13.0/.bundle" />
       </SOURCES>
     </library>
+    <library name="mongoid-rspec (v4.0.2@a9c6ac, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/lib" />
+      </SOURCES>
+    </library>
     <library name="mongoid_userstamp (v0.3.2, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid_userstamp-0.3.2/lib" />
@@ -7932,6 +7986,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/mongoid_userstamp-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mongoid_userstamp (v0.3.2@fd6d5d, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/lib" />
       </SOURCES>
     </library>
     <library name="moped (v1.5.3, rbenv: 2.2.4) [gem]">
@@ -9926,6 +9988,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/rack-1.4.7/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.10, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-1.6.10/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rack-1.6.10/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.4, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rack-1.6.4/bin" />
@@ -10274,6 +10350,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/rails3-generators-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails4_upgrade (v0.5.0@2e39e8, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/rails4_upgrade-2e39e8e55507/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/rails4_upgrade-2e39e8e55507/lib" />
       </SOURCES>
     </library>
     <library name="railties (v3.2.22.4, rbenv: 2.2.4) [gem]">
@@ -13866,6 +13950,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.5, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v3.0.0, rbenv: 2.2.4) [gem]">
