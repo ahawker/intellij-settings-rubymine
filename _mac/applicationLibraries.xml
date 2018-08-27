@@ -24,6 +24,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/actionmailer-3.2.22.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v4.2.10, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionmailer-4.2.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionmailer-4.2.10/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v3.2.22.4, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionpack-3.2.22.4/lib" />
@@ -46,6 +54,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/actionpack-3.2.22.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.2.10, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionpack-4.2.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionpack-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.10, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionview-4.2.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionview-4.2.10/lib" />
       </SOURCES>
     </library>
     <library name="activeadmin (v0.6.6, rbenv: 2.2.4) [gem]">
@@ -2020,6 +2044,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/coffee-rails-3.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.2.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/coffee-rails-4.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/coffee-rails-4.2.2/lib" />
       </SOURCES>
     </library>
     <library name="coffee-script (v2.4.1, rbenv: 2.2.4) [gem]">
@@ -5332,6 +5364,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/haml-rails-0.4/lib" />
       </SOURCES>
     </library>
+    <library name="haml-rails (v0.9.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/haml-rails-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/haml-rails-0.9.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/haml-rails-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/haml-rails-0.9.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="has_scope (v0.6.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/has_scope-0.6.0/lib" />
@@ -7098,6 +7140,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.0/vendor" />
       </SOURCES>
     </library>
+    <library name="letter_opener_web (v1.3.4, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/letter_opener_web-1.3.4/vendor" />
+      </SOURCES>
+    </library>
     <library name="librarian (v0.1.2, rbenv: 2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/librarian-0.1.2/lib" />
@@ -8034,6 +8094,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/mongoid-compatibility-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="mongoid-compatibility (v0.5.1, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-compatibility-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-compatibility-0.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mongoid-history (v0.5.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-history-0.5.0/lib" />
@@ -8064,6 +8132,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-history-7cc6ddfb3c1f/lib" />
+      </SOURCES>
+    </library>
+    <library name="mongoid-history (v0.8.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-history-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-history-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mongoid-paranoia (v2.0.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-paranoia-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-paranoia-2.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-paranoia-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-paranoia-2.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="mongoid-rspec (v1.13.0, rbenv: 2.2.4) [gem]">
@@ -10504,6 +10590,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails (v4.2.10, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-4.2.10/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-4.2.10/guides" />
+      </SOURCES>
+    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
@@ -10586,6 +10680,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/railties-3.2.22.5/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/railties-3.2.22.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/railties-3.2.22.5/guides" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.2.10, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/railties-4.2.10/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/railties-4.2.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/railties-4.2.10/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/railties-4.2.10/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.1.0, rbenv: 2.2.4) [gem]">
@@ -11310,6 +11414,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/responders-1.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v2.4.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/responders-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/responders-2.4.0/lib" />
       </SOURCES>
     </library>
     <library name="rest-client (v1.6.7, rbenv: 2.3.4) [gem]">
@@ -12662,6 +12774,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/sass-rails-3.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="sass-rails (v4.0.5, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sass-rails-4.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sass-rails-4.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="savon (v2.11.1, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/savon-2.11.1/lib" />
@@ -13508,6 +13628,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sprockets-helpers-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sprockets-helpers-1.2.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v2.3.3, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-sass (v1.3.1, rbenv: 2.2.4) [gem]">
