@@ -8,8 +8,11 @@
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
+      <mapping pattern="seeding" type="PLAIN_TEXT" />
+      <mapping pattern="commands" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="image" type="PLAIN_TEXT" />
+      <mapping pattern="seed" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
