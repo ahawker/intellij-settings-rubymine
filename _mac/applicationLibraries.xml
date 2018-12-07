@@ -3122,6 +3122,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/dotenv-2.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.5.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/dotenv-2.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/dotenv-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/dotenv-2.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/dotenv-2.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="dotenv-rails (v0.9.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/dotenv-rails-0.9.0/lib" />
@@ -3136,6 +3146,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/dotenv-rails-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv-rails (v2.5.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/dotenv-rails-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/dotenv-rails-2.5.0/lib" />
       </SOURCES>
     </library>
     <library name="dry-inflector (v0.1.2, rbenv: 2.2.4) [gem]">
@@ -15652,6 +15670,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zendesk_api-1.14.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.6/lib/ruby/gems/2.2.0/gems/zendesk_api-1.14.0/util" />
+      </SOURCES>
+    </library>
+    <library name="zendesk_api (v1.16.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/zendesk_api-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/zendesk_api-1.16.0/util" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/zendesk_api-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/zendesk_api-1.16.0/util" />
       </SOURCES>
     </library>
     <library name="zookeeper (v1.4.11, rbenv: 2.2.6) [gem]">
