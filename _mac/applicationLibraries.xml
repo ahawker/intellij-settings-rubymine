@@ -3788,6 +3788,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/faraday-0.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="faraday-http-cache (v2.0.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faraday-http-cache-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faraday-http-cache-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday_middleware (v0.10.1, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/faraday_middleware-0.10.1/lib" />
@@ -5290,6 +5298,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/gh_inspector-1.0.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/gh_inspector-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="github_changelog_generator (v1.14.3, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/github_changelog_generator-1.14.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/github_changelog_generator-1.14.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/github_changelog_generator-1.14.3/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/github_changelog_generator-1.14.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/github_changelog_generator-1.14.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/github_changelog_generator-1.14.3/man" />
       </SOURCES>
     </library>
     <library name="globalid (v0.4.1, rbenv: 2.2.4) [gem]">
@@ -11850,6 +11870,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/retained-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="retriable (v2.1.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/retriable-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/retriable-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="retries (v0.0.5, rbenv: 2.2.4) [gem]">
