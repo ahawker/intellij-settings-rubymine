@@ -11,6 +11,7 @@
       <mapping pattern="seeding" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
       <mapping pattern="push-deploy-stage" type="PLAIN_TEXT" />
+      <mapping pattern="pull-request-image-deploy" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern="pull-request-deploy-stage" type="PLAIN_TEXT" />
       <mapping pattern="image" type="PLAIN_TEXT" />
