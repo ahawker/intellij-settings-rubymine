@@ -17,6 +17,7 @@
       <mapping pattern=".env.defaults" type="PLAIN_TEXT" />
       <mapping pattern="seed" type="PLAIN_TEXT" />
       <mapping pattern="stack" type="PLAIN_TEXT" />
+      <mapping pattern="image-deploy" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
