@@ -22,6 +22,7 @@
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping pattern="travis" type="YAML" />
       <mapping ext="tpl" type="Jinja2" />
     </extensionMap>
