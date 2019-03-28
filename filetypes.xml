@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="app-deletion" type="Bash" />
+      <mapping pattern="main" type="Bash" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="jenkins" type="PLAIN_TEXT" />
       <mapping pattern="lint" type="PLAIN_TEXT" />
